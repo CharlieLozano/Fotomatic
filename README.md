@@ -7,7 +7,7 @@ In this project you will fix a broken version of a responsive website called Fot
 As you fix Fotomatic’s bugs, remember to use the skills you acquired in the Chrome DevTools article to help you decipher and update the site’s CSS. Chrome DevTools are essential for debugging – they allow you to view current style values, toggle rules, and test different rule values.
 
 ## Fotomatic Project Solution
-# Compare your work to the solution code!
+### Compare your work to the solution code!
 
 You can download the solution code to the Fotomatic project [here](https://content.codecademy.com/PRO/skill-paths/learn-how-to-build-websites/F1C1_solution_2019.zip).
 
